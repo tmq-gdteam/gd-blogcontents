@@ -1,0 +1,8 @@
+LinkedIn Post Image Prompt
+Topic: The Rise of the Synthetic C-Suite
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+Create an editorial, cinematic visual for a B2B thought-leadership LinkedIn post about AI audio as a synthetic executive layer for founders. Show a focused founder at a clean modern workstation with subtle translucent audio waveforms branching into four abstract executive function nodes: strategy, sales, marketing, and operations. The scene should suggest scalable presence and human control, not replacement. Visual style: premium editorial photorealism with restrained futuristic interface elements, no sci-fi excess. Color mood and palette: deep charcoal, soft white, signal green, and muted cobalt accents, high contrast but professional and calm. Composition framing: left-heavy founder profile in the foreground, audio waveform and executive nodes flowing across the right side, generous negative space, full-bleed landscape crop. Include a clear sense of trust infrastructure through small visual cues like verification marks, consent toggles, and audit trail lines integrated into the interface. 1200 x 627 pixels, 1.91:1 landscape. Avoid text overlays, logos, brand names, generic stock photo styling, cluttered dashboards, uncanny faces, robots, microphones as the main subject, neon purple gradients, and exaggerated cyberpunk aesthetics.
