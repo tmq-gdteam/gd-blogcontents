@@ -1,0 +1,18 @@
+LinkedIn Post Image Prompt
+Topic: Why One Text Could Bankrupt Your Business in 2026
+Date: 2026-06-25
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+Create a clean, modern editorial illustration at 1200 x 627 pixels, 1.91:1 landscape, for a B2B technology and telecom-compliance blog post.
+
+Subject / scene: An abstract, conceptual depiction of a single SMS message bubble at the center of the composition, rendered as a sleek geometric chat bubble. From the bubble, thin connection lines radiate outward toward small node icons representing carrier networks, compliance checkpoints, and warning markers — visualizing one message traveling through a regulated network gauntlet. A subtle, oversized "$" or warning-triangle motif sits faintly in the negative space to signal financial and regulatory risk, without being literal or alarming.
+
+Visual style: Flat geometric vector illustration with a refined, editorial tech aesthetic. Crisp shapes, generous negative space, confident lines. Premium SaaS / fintech look — not cartoonish, not stock-photo.
+
+Color mood and palette: Cool, trustworthy, professional. Deep navy / midnight blue background (#0B1F3A to #14315C gradient), with a single accent of electric teal-cyan (#1FC8C0 / #2DD4BF) for the message bubble and active connection lines, plus a restrained warm amber (#F5A623) used sparingly only on the risk/warning node to create tension and focal contrast. Light, near-white linework for secondary nodes.
+
+Composition framing: Centered focal message bubble with rule-of-thirds balance; connection lines and nodes fan outward to fill the landscape frame. Strong depth from the dark background. Leave calm negative space in the lower-left third so the image reads well when cropped or overlaid in a LinkedIn feed.
+
+Avoidances: No text overlays or words baked into the image. No literal phones or generic stock-photo hands. No people. No cluttered or busy backgrounds. No realistic photography. No logos. No emoji. Keep it clean, balanced, and high-end.
