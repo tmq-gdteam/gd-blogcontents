@@ -1,0 +1,8 @@
+LinkedIn Post Image Prompt
+Topic: Beat Startup Failure With Service-as-Software
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+Create a sophisticated editorial LinkedIn image about a founder moving from slow manual execution to AI-powered operational momentum. Subject or scene: a modern solo founder standing at a clean workstation, looking at a large transparent operations map where many small workflow nodes are being handled by luminous AI worker modules; the human remains calm and central, representing judgment and strategy, while the repetitive execution layer flows around them. Visual style: premium editorial 3D illustration with subtle cinematic realism, polished but not cartoonish. Color mood and palette: crisp white and graphite background with accents of electric cyan, deep teal, and warm amber highlights; high contrast, professional technology tone, not overly dark. Composition framing: 1200 x 627 pixels, 1.91:1 landscape; founder positioned slightly left of center using rule-of-thirds, workflow network expanding to the right with clean negative space and a sense of forward motion; full-bleed image, minimal and uncluttered. Avoidances: no text overlays, no logos, no generic stock photo look, no robot humanoids, no cluttered backgrounds, no charts with readable numbers, no distorted hands, no exaggerated sci-fi cityscape, no purple-blue gradient blob background.
