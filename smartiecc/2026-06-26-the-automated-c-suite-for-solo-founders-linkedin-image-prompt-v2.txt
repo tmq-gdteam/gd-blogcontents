@@ -1,0 +1,25 @@
+LinkedIn Post Image Prompt
+Topic: The Automated C-Suite for Solo Founders
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+FULL-CONCEPT SYNTHESIS
+Opening tension: Founders are told that if they can build the product, the business will follow — but most businesses fail because the founder built the wrong thing too early or became the only person holding everything together. The promise of an AI executive team is real leverage; the risk is that unbounded AI authority does not create leverage, it scales chaos.
+Argument journey: The article moves from AI as a scattered pile of prompt boxes and brittle automations, to a reframing of AI as a governed executive team (a cofounder that challenges assumptions, a CMO that builds pipeline, a COO that turns founder memory into systems). It warns against "thin automation" layered on broken systems, then argues for progressive delegation — humans stay in the approval path for high-risk decisions while AI takes low-risk, repeatable work.
+Resolution / payoff: The reader walks away believing the winners will not be the tools that promise unlimited autonomy, but the systems that know exactly where autonomy ends. The founder keeps the vision; the AI runs the machine; the advantage belongs to those who know the difference.
+Visual concept: A single founder figure calmly directing a row of autonomous executive "engines" that are powerful but firmly contained inside a hard boundary — control that is delegated, not surrendered, with one decision deliberately held back on the human side of the line.
+
+SIGNATURE STYLE
+Style: Bold editorial illustration — flat vector art, strong graphic shapes, thick outlines, stylized forms. NOT photorealistic.
+Palette: Deep ink navy (dominant) / hot coral-red (contrast, the risk of runaway autonomy) / electric teal (accent, the AI executive functions) / warm cream off-white (neutral). High contrast, never muddy.
+Motif: Bold geometric frame element — a thick-bordered containment panel rendered as a heavy navy rectangle that boxes in the three autonomous executive engines on the right, with the founder figure standing just outside the frame on the left, one hand resting on the border like a gate.
+Tone: Irreverent, magazine cover meets indie zine. Not corporate.
+
+FULL IMAGE PROMPT
+Bold editorial flat-vector illustration for a B2B founder audience, in a magazine-cover-meets-indie-zine style with thick black outlines, strong graphic shapes, and highly stylized forms — not photorealistic, not stock photo. Compose on a warm cream off-white field. On the right two-thirds, a heavy deep-ink-navy thick-bordered rectangular panel acts as a containment frame holding three simplified, geometric "executive engine" icons stacked or arranged in a row — abstract machine-like blocks suggesting strategy, marketing, and operations, glowing in electric teal, clearly powerful and clearly enclosed. Thin teal flow lines run between the engines like a controlled circuit. On the left third, a single bold stylized founder figure stands calmly outside the navy frame, one hand resting on the thick border as if it were a gate or control lever, holding back one small hot coral-red token or shape that has NOT been let inside the frame — representing the high-risk decision kept on the human side of the line. The hot coral-red also leaks faintly as a warning glow at one corner of the panel, hinting at the chaos that would follow if the boundary broke. Strong rule-of-thirds layout, generous negative space, flat lighting, no rendering or 3D shading. The whole image must read at a glance as "powerful autonomy, firmly bounded — the founder decides where it ends." 1200 x 627 pixels, 1.91:1 landscape, full-bleed, no border added by the tool.
+
+AVOIDANCES
+Permanent: No photorealism. No stock photo aesthetic. No generic business imagery. No text overlays. No cluttered compositions. No gradients as primary element.
+Article-specific: No literal robots or humanoid androids, no friendly assistant chat bubbles, no glowing brain or circuit-board cliché as the focal point, no smiling-founder-at-laptop portrait, no sci-fi control-room spectacle. Keep the AI represented as contained abstract engines, not characters.
