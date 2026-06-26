@@ -1,0 +1,12 @@
+LinkedIn Post Image Prompt
+Topic: AI Translation Is Becoming the Digital Co-Founder for Global Startups and SMBs
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+Create a polished editorial business image for a LinkedIn post about real-time AI translation becoming operating infrastructure for founders and small businesses. Depict a modern founder or SMB owner at a clean workstation during a global video call, with subtle multilingual speech streams visually connecting to remote collaborators in different regions. The AI translation layer should feel like quiet infrastructure: elegant translucent interface elements, soft waveform lines, and small language markers, but no readable text overlays.
+
+Visual style: premium editorial illustration with light photorealistic depth, sophisticated B2B technology aesthetic, clean and credible rather than futuristic fantasy. Color mood and palette: balanced cool and warm tones, deep charcoal, crisp white, muted teal, soft electric blue, and restrained amber accents; high contrast but not dark or overly saturated. Composition framing: 1200 x 627 pixels, 1.91:1 landscape, left-heavy subject with open negative space on the right, rule-of-thirds composition, full-bleed image, uncluttered background, crisp focal point on the business operator and the global communication layer.
+
+Avoid generic stock photo look, avoid flags, avoid literal robots, avoid globe clichés, avoid cluttered dashboards, avoid exaggerated sci-fi holograms, avoid text overlays, avoid logos, avoid watermarks, avoid distorted hands or faces.
