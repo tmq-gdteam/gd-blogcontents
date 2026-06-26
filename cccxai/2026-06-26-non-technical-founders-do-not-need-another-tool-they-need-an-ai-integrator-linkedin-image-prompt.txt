@@ -1,0 +1,12 @@
+LinkedIn Post Image Prompt
+Topic: Non-Technical Founders Do Not Need Another Tool. They Need an AI Integrator.
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+Create a polished editorial LinkedIn image for a B2B AI startup audience, 1200 x 627 pixels, 1.91:1 landscape. Depict a non-technical founder at a clean modern workstation, seen from a slight overhead angle, with scattered inbound signals from email, chat, calls, and social channels visually converging into one calm central AI operations layer on the screen. The scene should communicate focus returning to the founder: peripheral message streams are organized, filtered, and routed before reaching them.
+
+Visual style: premium editorial illustration with subtle realistic depth, crisp interface details, and a sophisticated SaaS brand feel. Color mood and palette: balanced cool and warm contrast, deep charcoal and soft white base, accents of electric cyan, signal green, and restrained amber for priority routing. Composition framing: left-heavy founder/workstation, central dashboard as the focal point, clean negative space on the right for visual breathing room, full-bleed background with no border.
+
+Avoidances: no text overlays, no readable UI text, no logos, no generic stock photo look, no cluttered backgrounds, no humanoid robots, no exaggerated futuristic effects, no dark gloomy mood, no messy cable-filled desk.
