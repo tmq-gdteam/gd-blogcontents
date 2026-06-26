@@ -1,0 +1,19 @@
+IMAGE GENERATION PROMPT — Blog hero image
+Blog: "The $1,200 Phone Call You Didn't Answer: Why Async Beats Availability" (itext.io / text-first infrastructure + human-in-the-loop AI)
+
+PRIMARY PROMPT:
+A cinematic, editorial conceptual illustration for a B2B AI/SaaS blog. Central metaphor: a busy service-business owner (e.g., a tradesperson) with hands occupied mid-task, while a glowing smartphone beside them autonomously fires off a friendly SMS reply bubble that catches an incoming call — visualized as a stream of light being redirected from a "missed call" icon into a captured "lead" card. In the background, a faint single-lane toll booth with a long line of light-trails (representing backed-up demand) dissolving into smooth parallel asynchronous message streams. A small padlock/checkpoint icon hovers at one decision point, symbolizing human-in-the-loop approval before an irreversible action. Subtle floating UI: an SMS bubble, a rising response-rate metric, an "approve" toggle. Dark navy studio background; warm amber light on the human, cool teal/blue glow on the AI/message streams — deliberate human-vs-machine warmth contrast. Clean negative space upper-left for headline text.
+
+STYLE: photorealistic-meets-holographic-illustration, volumetric light, shallow depth of field, 16:9 widescreen, no text, no logos, no watermarks.
+
+COLOR PALETTE: deep navy (#0B1B33), electric blue (#3B82F6), teal (#14B8A6), warm amber work light, soft white highlights.
+
+MOOD: relief and control, premium, optimistic — recovered revenue, not hype.
+
+NEGATIVE PROMPT: cartoonish, cluttered, low-res, distorted hands/faces, generic humanoid robot, matrix code rain, stock-photo handshake, literal PDF documents (avoid confusion with iText PDF), text artifacts, misspelled words.
+
+ALT TEXT: "A busy tradesperson with full hands while a phone auto-sends an SMS that captures an incoming call, with a human-approval checkpoint icon — representing text-first automation that recovers missed-call revenue."
+
+ASPECT RATIO: 16:9 (1920x1080). A 1:1 (1080x1080) crop is recommended for LinkedIn and X.
+
+NOTE: Image generation was not available in the automation environment for this run, so only this prompt file was produced. Generate the image in your preferred tool and save it into this folder as 2026-06-26-sms-automation-missed-calls-image.png.
