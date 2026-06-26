@@ -1,0 +1,19 @@
+IMAGE GENERATION PROMPT — Blog hero image
+Blog: "Business Physics Just Broke: Why Headcount No Longer Equals Growth" (customers.new / the AI-augmented co-founder model)
+
+PRIMARY PROMPT:
+A cinematic, editorial conceptual illustration for a B2B AI blog. Visual metaphor of "business physics breaking": on the left, a heavy tower of stacked wooden blocks (representing old linear headcount-based growth) beginning to dissolve; on the right, the same tower re-forming as a weightless, glowing lattice of light and data that rises far higher with far fewer pieces — implying nonlinear leverage. A single calm founder stands at a modern desk between the two, lit warmly, while translucent holographic "executive" figures of softly glowing circuitry (a CMO, COO, CTO) work around them. A small floating clock/stopwatch near an inbound message glows urgently to evoke speed-to-lead. One faint padlock/checkpoint icon hovers at a decision point, symbolizing human-in-the-loop approval. Dark navy studio background; warm amber light on the human, cool teal/blue glow on the AI lattice — deliberate human-vs-machine warmth contrast. Clean negative space upper-left for headline text.
+
+STYLE: photorealistic-meets-holographic-illustration, volumetric light, shallow depth of field, 16:9 widescreen, no text, no logos, no watermarks.
+
+COLOR PALETTE: deep navy (#0B1B33), electric blue (#3B82F6), teal (#14B8A6), warm amber desk light, soft white highlights.
+
+MOOD: empowering, premium, optimistic with a hint of tension — transformation, not hype.
+
+NEGATIVE PROMPT: cartoonish, cluttered, low-res, distorted hands/faces, generic humanoid robot, matrix code rain, stock-photo handshake, text artifacts, misspelled words.
+
+ALT TEXT: "A founder between a collapsing tower of wooden blocks and a soaring lattice of light, surrounded by holographic AI executives — representing nonlinear growth via the AI-augmented co-founder model."
+
+ASPECT RATIO: 16:9 (1920x1080). A 1:1 (1080x1080) crop is recommended for LinkedIn and X.
+
+NOTE: Image generation was not available in the automation environment for this run, so only this prompt file was produced. Generate the image in your preferred tool and save it into this folder as 2026-06-26-ai-cofounder-customer-acquisition-image.png.
