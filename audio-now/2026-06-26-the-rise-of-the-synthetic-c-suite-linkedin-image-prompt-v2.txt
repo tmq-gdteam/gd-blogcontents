@@ -1,0 +1,25 @@
+LinkedIn Post Image Prompt
+Topic: The Rise of the Synthetic C-Suite
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+FULL-CONCEPT SYNTHESIS
+Opening tension: A single founder is buried under every job in the company at once — building, selling, marketing, operating — and is becoming the bottleneck that 90% of startups die from. They need leverage, not another tool.
+Argument journey: AI audio is reframed from "content generator" into an execution layer for trust — a synthetic C-suite where voice performs executive roles (CMO, CRO, COO, Chief of Staff). The shift moves from one overloaded person to multiplied, role-based presence, governed by tiered autonomy so the human still authorizes the high-risk calls.
+Resolution / payoff: The founder is no longer the entire company. They are pulled back into strategy and judgment while their voice scales across many functions — multiplication under their own hand, not replacement.
+Visual concept: One central founder figure splitting into several confident executive versions of itself through branching sound waves — leverage and self-multiplication directed by the founder, not a robot standing in for them.
+
+SIGNATURE STYLE
+Style: Bold editorial illustration — flat vector art, strong graphic shapes, thick outlines, stylized forms. NOT photorealistic.
+Palette: Deep ink-charcoal (dominant) / electric signal-green (contrast) / warm amber-orange (accent) / bone white (neutral). High contrast, never muddy.
+Motif: Bold geometric frame element — a thick-bordered vertical band anchoring the left third of the composition, framing the central founder figure; the branching executive figures and sound waves deliberately break out past the frame's right edge to signal expansion beyond one person.
+Tone: Irreverent, magazine cover meets indie zine. Not corporate.
+
+FULL IMAGE PROMPT
+Bold flat-vector editorial illustration for a B2B thought-leadership article on AI audio as a founder's "synthetic C-suite." A single central founder figure, rendered in thick-outlined stylized flat shapes, stands calm and in control while concentric sound-wave arcs radiate from them and branch into three or four distinct, confident executive silhouettes representing marketing, sales, operations, and strategy — clearly the same person multiplied through voice, not separate hires or robots. A thick-bordered geometric band anchors the left third of the frame around the founder; the branching figures and waveforms break boldly past the band's right edge to signal scale beyond one person. Use a strict four-color flat palette: deep ink-charcoal as the dominant field, electric signal-green as the high-contrast counter, warm amber-orange as the accent on the radiating waves, and bone white as the neutral. Strong graphic shapes, crisp thick outlines, generous negative space, magazine-cover-meets-indie-zine energy, slightly irreverent and purposeful. Landscape composition optimized for 1200 x 627 pixels, 1.91:1. No text, no logos, no gradients as the main device.
+
+AVOIDANCES
+Permanent: No photorealism. No stock photo aesthetic. No generic business imagery. No text overlays. No cluttered compositions. No gradients as primary element.
+Article-specific: No robots, androids, or humanoid AI standing in for the founder (the concept is multiplication of the human, not replacement). No microphones, headphones, or audio hardware as the main subject. No literal C-suite boardroom, suits, or org-chart diagrams. No neon cyberpunk styling.
