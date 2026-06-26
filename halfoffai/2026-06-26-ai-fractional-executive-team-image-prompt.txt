@@ -1,0 +1,19 @@
+IMAGE GENERATION PROMPT — Blog hero image
+Blog: "The $99 Executive Team: How Agentic AI Ends the Founder's Execution Bottleneck" (HalfOff.ai / agentic AI as fractional executives)
+
+PRIMARY PROMPT:
+A cinematic, editorial conceptual illustration for a B2B AI blog. A single calm founder sits at a modern desk, and around them — rendered as glowing translucent holographic figures of light — stand a small executive team (a CMO, a COO, a developer) made of softly glowing circuitry and data, implying an affordable "AI executive team." One faint padlock/checkpoint icon hovers at a decision point between the founder and the AI figures, symbolizing human-in-the-loop approval. Subtle floating UI: a rising campaign metric, a budget reallocation, an "approve" toggle. Dark navy studio background with warm desk light on the human and cool teal/blue glow on the AI figures — a deliberate human-vs-AI warmth contrast. Clean negative space upper-left for headline text.
+
+STYLE: photorealistic-meets-holographic-illustration, volumetric light, shallow depth of field, 16:9 widescreen, no text, no logos, no watermarks.
+
+COLOR PALETTE: deep navy (#0B1B33), electric blue (#3B82F6), teal (#14B8A6), warm amber desk light, soft white highlights.
+
+MOOD: empowering, calm, premium, optimistic — relief, not hype.
+
+NEGATIVE PROMPT: cartoonish, cluttered, low-res, distorted hands/faces, generic humanoid robot, matrix code, stock-photo handshake, text artifacts, misspelled words.
+
+ALT TEXT: "A founder at a desk surrounded by glowing holographic AI executives, with a human-approval checkpoint icon — representing affordable agentic AI as a fractional executive team."
+
+ASPECT RATIO: 16:9 (1920x1080). A 1:1 (1080x1080) crop is recommended for LinkedIn and X.
+
+NOTE: Image generation was not available in the automation environment for this run, so only this prompt file was produced. Generate the image in your preferred tool and save it into this folder as 2026-06-26-ai-fractional-executive-team-image.png.
