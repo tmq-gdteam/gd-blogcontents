@@ -1,0 +1,25 @@
+LinkedIn Post Image Prompt
+Topic: Non-Technical Founders Do Not Need Another Tool. They Need an AI Integrator.
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+FULL-CONCEPT SYNTHESIS
+Opening tension: Launching a business looks effortless, but the moment after launch a non-technical founder is buried under unfiltered inbound demand — every message, lead, and support ticket arriving as if equally urgent, with no system deciding what actually deserves attention.
+Argument journey: The article moves from the expensive old fix (trade equity for a technical cofounder) to a reframe — the real first job is credibility and operating structure, not code. Solopreneurs hit the same wall from the other side through constant context switching, and burnout is exposed not as weak discipline but as an operating-system failure: the work is unfiltered. The missing role is the Integrator — the function that converts noise into routed, prioritized execution while keeping a human at the controls.
+Resolution / payoff: The reader stops believing the answer is more tools or more open tabs and starts believing the real advantage is deciding what reaches the founder at all — an AI integrator that absorbs operational noise, protects attention, and escalates only what needs human judgment.
+Visual concept: A bold gatekeeping filter sits between a chaotic storm of incoming signals and a single calm founder figure, sorting the overwhelming flood down to the few items that earn human attention — the shift from unfiltered noise to deliberate routing.
+
+SIGNATURE STYLE
+Style: Bold editorial illustration — flat vector art, strong graphic shapes, thick outlines, stylized forms. NOT photorealistic.
+Palette: Deep ink navy (dominant) / electric coral-red for the chaotic incoming signals (contrast) / signal cyan for the filtered, prioritized output (accent) / warm off-white cream (neutral). High contrast, never muddy or desaturated.
+Motif: Bold geometric frame element — a thick-bordered vertical funnel/gate panel running down the center of the composition, its heavy outline acting as the literal filter the signals pass through; the chaotic side sits left, the calm routed side sits right.
+Tone: Irreverent, magazine cover meets indie zine. Not corporate.
+
+FULL IMAGE PROMPT
+Bold editorial illustration in flat vector art, 1200 x 627 pixels, 1.91:1 landscape. A single calm, stylized founder figure sits on the right side at a clean minimal desk, composed and unhurried. On the left, a chaotic storm of abstract incoming signals — sharp coral-red arrows, jagged speech bubbles, envelope shapes, dots, and notification badges — crowds and collides in a tangled mass. Down the center stands a thick-bordered geometric funnel-gate panel with a heavy ink-navy outline; the messy coral signals pour into its wide top and emerge from the narrow bottom as a few clean, evenly-spaced signal-cyan shapes flowing calmly toward the founder. The composition reads instantly left-to-right as chaos being filtered into order. Use strong graphic shapes, thick uniform outlines, and highly stylized forms with no realistic shading. Palette strictly limited to deep ink navy as the dominant color, electric coral-red for the chaotic incoming signals, signal cyan for the filtered output, and warm off-white cream as the neutral background. High contrast, crisp edges, generous negative space around the founder. Playful, slightly irreverent magazine-cover energy — purposeful but not stiff or corporate.
+
+AVOIDANCES
+Permanent: No photorealism. No stock photo aesthetic. No generic business imagery (handshakes, laptops, bar charts, conference rooms, suits). No text overlays or embedded typography. No cluttered compositions. No gradients as the primary design element.
+Article-specific: No humanoid robots or sci-fi AI tropes. No literal funnel-marketing diagrams or sales-pipeline charts. No exhausted/crying founder cliché — the founder reads as calm and in control, not defeated. No dense dashboard UI screens.
