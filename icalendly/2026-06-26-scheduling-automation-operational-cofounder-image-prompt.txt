@@ -1,0 +1,19 @@
+IMAGE GENERATION PROMPT — Blog hero image
+Blog: "Your Scheduling Tool Is Quietly the Best Executive You Never Hired" (iCalendly / scheduling automation)
+
+PRIMARY PROMPT:
+A cinematic, editorial conceptual illustration for a B2B SaaS blog. A sleek modern office org-chart rendered as glowing connected nodes on a dark navy background — but where the "Chief Operating Officer" box sits, instead of a human headshot there is a luminous calendar/clock icon made of light, subtly implying an "invisible executive" running operations. A faint human silhouette stands to the side, relaxed, freed from busywork. Floating UI fragments suggest a booking interface, an inbound lead converting, and a rising conversion curve. Premium, calm, high-trust — not busy or alarmist. Clean negative space in the upper-left third for headline text overlay.
+
+STYLE: photorealistic-meets-clean-vector-illustration, soft volumetric lighting, depth of field, 16:9 widescreen, no text, no logos, no watermarks.
+
+COLOR PALETTE: deep navy (#0B1B33), electric blue (#3B82F6), teal accent (#14B8A6), warm white highlights.
+
+MOOD: authoritative, modern, optimistic, premium B2B.
+
+NEGATIVE PROMPT: cartoonish, cluttered, low-res, distorted hands or faces, stock-photo handshake, generic "robot," matrix code, text artifacts, misspelled words.
+
+ALT TEXT: "Conceptual org chart where the operations role is filled by a glowing calendar icon, representing scheduling software acting as an automated operational cofounder."
+
+ASPECT RATIO: 16:9 (1920x1080). A 1:1 (1080x1080) crop is recommended for LinkedIn and X.
+
+NOTE: Image generation was not available in the automation environment for this run, so only this prompt file was produced. Generate the image in your preferred tool and save it into this folder as 2026-06-26-scheduling-automation-operational-cofounder-image.png before/after the GitHub upload as needed.
