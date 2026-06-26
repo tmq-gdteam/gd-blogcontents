@@ -1,0 +1,20 @@
+IMAGE GENERATION PROMPT — Blog hero image
+Blog: "Deepfake Defense Is Now Business Infrastructure, Not an IT Afterthought" (NoForgery.ai)
+
+PRIMARY PROMPT:
+A cinematic, editorial-style conceptual illustration for a B2B cybersecurity blog. A human business executive's face shown in profile, half of it rendered as warm, photorealistic human skin and half dissolving into a cool, glitching grid of blue-and-teal digital pixels and wireframe mesh — symbolizing the line between real identity and synthetic media. In the foreground, a single human hand hovers over a glowing "approve / block" decision point, representing human-in-the-loop oversight. Subtle floating UI elements suggest fraud risk scores and verification checkmarks. Dark navy background with controlled teal and electric-blue accent lighting, premium and trustworthy, not alarmist. Clean negative space on the left third for headline text overlay. Modern, sophisticated, corporate-tech aesthetic.
+
+STYLE: photorealistic-meets-digital-illustration, high detail, dramatic rim lighting, 16:9 widescreen, no text, no logos, no watermarks.
+
+COLOR PALETTE: deep navy (#0A1A2F), electric blue (#2D7FF9), teal (#1FC8C8), warm neutral skin tones, soft white highlights.
+
+MOOD: authoritative, calm, high-trust, premium B2B SaaS.
+
+NEGATIVE PROMPT: cartoonish, cluttered, lowres, distorted hands, extra fingers, gory, sci-fi cliché green "matrix" code, stock-photo hacker in hoodie, text artifacts, misspelled words.
+
+ALT TEXT (for accessibility / CMS):
+"Conceptual illustration of a human face half-dissolving into digital pixels, with a hand approving a verification decision — representing deepfake detection and human-in-the-loop digital trust."
+
+ASPECT RATIO: 16:9 (1920x1080). A 1:1 (1080x1080) crop variant is recommended for the LinkedIn and X social posts.
+
+NOTE: Image generation was not available in the automation environment for this run, so only this prompt file was produced. Generate the image in your preferred tool (e.g., ChatGPT/DALL·E, Midjourney, Gemini) and save the output into this folder as 2026-06-26-deepfake-defense-business-infrastructure-image.png before the GitHub upload step.
