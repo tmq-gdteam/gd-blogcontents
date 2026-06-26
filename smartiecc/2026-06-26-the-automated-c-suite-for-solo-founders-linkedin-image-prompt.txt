@@ -1,0 +1,8 @@
+LinkedIn Post Image Prompt
+Topic: The Automated C-Suite for Solo Founders
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+Create a polished editorial LinkedIn image for a B2B founder audience. Show a solo founder standing at a clean command-center desk, viewed from behind at a slight three-quarter angle, facing three calm translucent AI executive panels labeled only by visual roles, not readable text: strategy, marketing, and operations. The scene should communicate governed delegation, not chaotic automation. Visual style: cinematic editorial 3D realism with subtle product-design polish, realistic materials, sharp but not glossy. Color mood and palette: deep charcoal background, warm white desk light, muted teal and electric blue interface accents, restrained amber highlights, high contrast but professional. Composition framing: 1200 x 627 pixels, 1.91:1 landscape, left-heavy founder silhouette with spacious negative space on the right, clean rule-of-thirds layout, full-bleed background, no border. Include abstract workflow lines connecting the panels to a tidy operating dashboard, with small approval checkpoints represented by minimal lock and check icons. Avoidances: no text overlays, no readable UI copy, no logos, no generic stock photo look, no cluttered backgrounds, no exaggerated sci-fi, no robots, no smiling business stock portrait, no distorted hands, no watermark.
