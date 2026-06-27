@@ -1,0 +1,25 @@
+LinkedIn Post Image Prompt
+Topic: Building What Should Be Possible
+Date: 2026-06-26
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+FULL-CONCEPT SYNTHESIS
+Opening tension: The article opens with a builder facing the gap between what exists and what feels like it should exist, beginning with an 11-year-old programmer mailing resumes into silence.
+Argument journey: The story moves from early technical curiosity through disappointment with imperfect institutions, then into repeated category-building moments where dismissed ideas became practical systems, ending with AI as the newest test of useful invention.
+Resolution / payoff: The reader walks away believing that technology is most valuable when machines handle what they are good at so humans can focus on creativity, problem-solving, critical thinking, and building meaningful things.
+Visual concept: A lone builder pulls a bright, unfinished machine-world across the border from "not yet" into reality, while human creativity remains clearly at the center rather than being swallowed by the system.
+
+SIGNATURE STYLE
+Style: Bold editorial illustration - flat vector art, strong graphic shapes, thick outlines, stylized forms. NOT photorealistic.
+Palette: Dominant deep ink navy / contrast electric cyan / accent signal coral / neutral warm white.
+Motif: Bold geometric frame element - a thick asymmetrical border panel on the left edge that breaks open into angular pathways across the composition.
+Tone: Irreverent, magazine cover meets indie zine. Not corporate.
+
+FULL IMAGE PROMPT
+Create a bold editorial illustration in flat vector art with strong graphic shapes, thick outlines, and stylized forms, 1200 x 627 pixels, landscape. Show a lone builder figure in simplified, non-corporate clothing pulling a glowing modular machine-world from a dark "not yet" space into a bright constructed reality; the machine-world should include abstract hints of early computing, communication signals, voice waves, and AI agents, but no literal screens, laptops, bar charts, or business meeting imagery. Keep the human figure visually central and active, with electric cyan pathways extending from their hands into organized machine modules, while a signal coral spark marks the moment an idea becomes useful. Use exactly four colors: deep ink navy as the dominant background, electric cyan for active systems, signal coral for breakthroughs, and warm white for the human figure and key negative space. Include a thick asymmetrical geometric frame panel along the left edge that appears to crack open into angular pathways across the image. The tone should feel slightly irreverent and editorial, like a magazine cover meets an indie zine, purposeful but not corporate. No text overlays, no typography, no photorealism, no stock photo aesthetic, no generic business imagery, no clutter, and no gradients as the primary design element.
+
+AVOIDANCES
+Permanent: No photorealism. No stock photo aesthetic. No generic business imagery. No text overlays. No cluttered compositions. No gradients as primary element.
+Article-specific: Avoid literal portraits, company logos, Microsoft imagery, IBM imagery, superhero imagery, robots replacing humans, and generic AI brain visuals.
