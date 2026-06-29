@@ -1,0 +1,25 @@
+LinkedIn Post Image Prompt
+Topic: How MCP Powers Autonomous Voice Agents
+Date: 2026-06-29
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+FULL-CONCEPT SYNTHESIS
+Opening tension: Voice AI can sound polished while failing at the only thing that matters: taking real action inside business systems.
+Argument journey: The article moves from scripted voice automation to MCP-powered interoperability, then shows why latency, tool calling, silent failure detection, retrieval grounding, compliance, and human handoffs determine whether a voice agent is production-ready.
+Resolution / payoff: The reader walks away believing that the future of voice AI belongs to systems that convert speech into verified, safe, real-time action rather than systems that merely sound human.
+Visual concept: A smooth voice interface on the surface reveals a precise mechanical action system underneath, showing the shift from talking bot to verified operational agent.
+
+SIGNATURE STYLE
+Style: Bold editorial illustration - flat vector art, strong graphic shapes, thick outlines, stylized forms. NOT photorealistic.
+Palette: Dominant electric teal (#00A6A6), contrast ink black (#111111), accent signal orange (#FF6B2C), neutral warm white (#F7F4EA).
+Motif: Bold geometric frame element - a thick ink-black rectangular border wraps the full composition, with an offset electric-teal side panel anchoring the left edge.
+Tone: Irreverent, magazine cover meets indie zine. Not corporate.
+
+FULL IMAGE PROMPT
+Create a bold editorial illustration in flat vector style for a LinkedIn post about MCP-powered autonomous voice agents. Show a stylized phone receiver or voice waveform at the top surface, clean and simple, but reveal beneath it a precise mechanical workflow engine: chunky interlocking tool ports, calendar blocks, database nodes, verification checkmarks, and a human handoff switch, all connected by thick graphic lines. The image should communicate that the smooth spoken interface is only valuable when the hidden system can retrieve context, execute actions, verify outcomes, and escalate safely. Use strong graphic shapes, thick outlines, and highly stylized forms. Use exactly four colors: electric teal as the dominant field, ink black for outlines and the geometric frame, signal orange for action/alert elements, and warm white for negative space. Include a thick ink-black rectangular frame around the full composition with an offset electric-teal side panel on the left edge as the signature motif. Composition should feel like a magazine-cover-meets-indie-zine editorial illustration: playful, slightly irreverent, purposeful, and not corporate. No text, no labels, no typography, no photorealism, no stock-photo feeling, no generic business imagery, no laptops, no bar charts, no suits, no clutter, and no gradients as the primary design element.
+
+AVOIDANCES
+Permanent: No photorealism. No stock photo aesthetic. No generic business imagery. No text overlays. No cluttered compositions. No gradients as primary element.
+Article-specific: Avoid humanoid robots, customer support headsets, futuristic blue holograms, generic AI brain icons, and literal USB-C plug cliches.
