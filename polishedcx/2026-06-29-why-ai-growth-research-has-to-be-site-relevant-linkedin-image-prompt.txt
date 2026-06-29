@@ -1,0 +1,25 @@
+LinkedIn Post Image Prompt
+Topic: Why AI Growth Research Has to Be Site-Relevant
+Date: 2026-06-29
+Target Dimensions: 1200 x 627 pixels (1.91:1 landscape)
+
+---
+
+FULL-CONCEPT SYNTHESIS
+Opening tension: AI growth advice often looks polished before it proves anything, creating a gap between confident recommendations and trustworthy strategy.
+Argument journey: The article moves from generic website analysis to a stricter model: start with distinct buyer pressure, separate verified evidence from inference, connect product features to operational outcomes, and define which decisions should remain human-led.
+Resolution / payoff: The reader walks away believing that useful AI research is narrower, more disciplined, and more honest about evidence, automation boundaries, and buyer-specific growth pressure.
+Visual concept: A glossy but flimsy strategy machine is being forced through a strict evidence frame, revealing a clearer path from messy assumptions to grounded growth decisions.
+
+SIGNATURE STYLE
+Style: Bold editorial illustration - flat vector art, strong graphic shapes, thick outlines, stylized forms. NOT photorealistic.
+Palette: Dominant electric cobalt blue (#2454FF), contrast hot coral (#FF4F5E), accent acid yellow (#F5D90A), neutral off-white (#F7F3E8).
+Motif: Bold geometric frame element - a thick off-white rectangular border tilted slightly around the central evidence frame, with one cobalt side band anchoring the left edge.
+Tone: Irreverent, magazine cover meets indie zine. Not corporate.
+
+FULL IMAGE PROMPT
+Create a bold editorial flat-vector illustration for a LinkedIn article about site-relevant AI growth research. Show a stylized "AI strategy machine" on the left ejecting shiny but wobbly abstract recommendation cards, while a thick geometric evidence frame in the center filters those cards into three clean, grounded shapes on the right: buyer pressure, verified proof, and human judgment. The composition should feel like messy confidence being disciplined into useful strategy, not like generic business consulting. Use strong graphic shapes, thick black outlines, highly stylized forms, and no embedded text. Palette must use exactly electric cobalt blue (#2454FF) as dominant, hot coral (#FF4F5E) as contrast, acid yellow (#F5D90A) as accent, and off-white (#F7F3E8) as neutral. Include the recurring bold geometric frame motif as a thick off-white tilted rectangle around the central filter, plus a cobalt vertical side band anchoring the left edge. Slightly irreverent, playful, magazine cover meets indie zine. Clean composition with strong negative space. No photorealism, no stock photo aesthetic, no generic business imagery, no handshakes, no laptops, no bar charts, no conference rooms, no suits, no text overlays, no clutter, and no gradients as the primary design element.
+
+AVOIDANCES
+Permanent: No photorealism. No stock photo aesthetic. No generic business imagery. No text overlays. No cluttered compositions. No gradients as primary element.
+Article-specific: Avoid robots, chat bubbles, magnifying glasses over websites, dashboards, corporate meeting scenes, or literal screenshots of web pages.
