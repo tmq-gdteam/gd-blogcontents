@@ -1,0 +1,19 @@
+IMAGE GENERATION PROMPT — Blog hero image
+Blog: "Held Hostage by Your Own Tech: Why Working Harder Stopped Working" (hellostreamline.com / centralized workflow automation + fractional COO + human-in-the-loop)
+
+PRIMARY PROMPT:
+A cinematic, editorial conceptual illustration for a B2B SaaS blog. Central metaphor: a tired founder at a desk who is gently tangled in glowing cables/threads connecting a chaotic scatter of disconnected app icons (calendar, email, invoice, chat) — visually "held hostage" by tool sprawl — while on the other side those tangled threads resolve into a single clean, luminous hub (a centralized CRM / "growth partner"), and the founder visibly relaxes. A small holographic "fractional COO" figure of soft circuitry stands beside them, organizing the flow. One faint padlock/checkpoint icon hovers at a decision node, symbolizing human-in-the-loop approval. Subtle floating UI: a rising productivity metric, a falling churn metric, an "approve" toggle, a key icon (holding the keys to your own house). Dark navy studio background; warm amber light on the human, cool teal/blue glow on the unified hub and AI figure — deliberate chaos-vs-clarity and human-vs-machine contrast. Clean negative space upper-left for headline text.
+
+STYLE: photorealistic-meets-holographic-illustration, volumetric light, shallow depth of field, 16:9 widescreen, no text, no logos, no watermarks.
+
+COLOR PALETTE: deep navy (#0B1B33), electric blue (#3B82F6), teal (#14B8A6), warm amber desk light, soft white highlights.
+
+MOOD: from overwhelm to relief — premium, calm, empowering; transformation, not hype.
+
+NEGATIVE PROMPT: cartoonish, cluttered to the point of illegible, low-res, distorted hands/faces, generic humanoid robot, matrix code rain, stock-photo handshake, literal puppet strings on a person (keep it tasteful), text artifacts, misspelled words.
+
+ALT TEXT: "A founder tangled in cables linking scattered disconnected apps on one side, resolving into a single glowing centralized hub with a holographic fractional-COO figure and a human-approval checkpoint — representing the move from tool sprawl to unified workflow automation."
+
+ASPECT RATIO: 16:9 (1920x1080). A 1:1 (1080x1080) crop is recommended for LinkedIn and X.
+
+NOTE: Image generation was not available in the automation environment for this run, so only this prompt file was produced. Generate the image in your preferred tool and save it into this folder as 2026-06-29-executive-workflow-automation-image.png.
